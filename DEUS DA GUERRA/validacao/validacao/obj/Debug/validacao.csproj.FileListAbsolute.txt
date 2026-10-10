@@ -1,0 +1,11 @@
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\validacao\validacao\bin\Debug\validacao.exe.config
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\validacao\validacao\bin\Debug\validacao.exe
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\validacao\validacao\bin\Debug\validacao.pdb
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\validacao\validacao\obj\Debug\validacao.csproj.AssemblyReference.cache
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\validacao\validacao\obj\Debug\validacao.frm_validacao.resources
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\validacao\validacao\obj\Debug\validacao.Properties.Resources.resources
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\validacao\validacao\obj\Debug\validacao.csproj.GenerateResource.cache
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\validacao\validacao\obj\Debug\validacao.csproj.CoreCompileInputs.cache
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\validacao\validacao\obj\Debug\validacao.exe
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\validacao\validacao\obj\Debug\validacao.pdb
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\validacao\validacao\obj\Debug\validacao.exe.config
