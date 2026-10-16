@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DB\\Desktop\\REPOSITORIO-DO-deus-da-guerra\\DEUS DA GUERRA\\BIG MAC YHWACH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37869568-5D70-4030-8749-E0C884CD76D6}|BIG MAC\\BIG MAC.csproj|C:\\Users\\DB\\Desktop\\REPOSITORIO-DO-deus-da-guerra\\DEUS DA GUERRA\\BIG MAC YHWACH\\big mac\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37869568-5D70-4030-8749-E0C884CD76D6}|BIG MAC\\BIG MAC.csproj|solutionrelative:big mac\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BIG MAC||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37869568-5D70-4030-8749-E0C884CD76D6}|BIG MAC\\BIG MAC.csproj|c:\\users\\db\\desktop\\repositorio-do-deus-da-guerra\\deus da guerra\\big mac yhwach\\big mac\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37869568-5D70-4030-8749-E0C884CD76D6}|BIG MAC\\BIG MAC.csproj|solutionrelative:big mac\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37869568-5D70-4030-8749-E0C884CD76D6}|BIG MAC\\BIG MAC.csproj|C:\\Users\\DB\\Desktop\\REPOSITORIO-DO-deus-da-guerra\\DEUS DA GUERRA\\BIG MAC YHWACH\\big mac\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37869568-5D70-4030-8749-E0C884CD76D6}|BIG MAC\\BIG MAC.csproj|solutionrelative:big mac\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37869568-5D70-4030-8749-E0C884CD76D6}|BIG MAC\\BIG MAC.csproj|c:\\users\\db\\desktop\\repositorio-do-deus-da-guerra\\deus da guerra\\big mac yhwach\\big mac\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{37869568-5D70-4030-8749-E0C884CD76D6}|BIG MAC\\BIG MAC.csproj|solutionrelative:big mac\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DB\\Desktop\\REPOSITORIO-DO-deus-da-guerra\\DEUS DA GUERRA\\BIG MAC YHWACH\\BIG MAC\\Form1.cs",
+              "RelativeDocumentMoniker": "BIG MAC\\Form1.cs",
+              "ToolTip": "C:\\Users\\DB\\Desktop\\REPOSITORIO-DO-deus-da-guerra\\DEUS DA GUERRA\\BIG MAC YHWACH\\BIG MAC\\Form1.cs",
+              "RelativeToolTip": "BIG MAC\\Form1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T00:03:28.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DB\\Desktop\\REPOSITORIO-DO-deus-da-guerra\\DEUS DA GUERRA\\BIG MAC YHWACH\\BIG MAC\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "BIG MAC\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\DB\\Desktop\\REPOSITORIO-DO-deus-da-guerra\\DEUS DA GUERRA\\BIG MAC YHWACH\\BIG MAC\\Form1.Designer.cs",
+              "RelativeToolTip": "BIG MAC\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T23:58:52.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BIG MAC",
+              "DocumentMoniker": "C:\\Users\\DB\\Desktop\\REPOSITORIO-DO-deus-da-guerra\\DEUS DA GUERRA\\BIG MAC YHWACH\\BIG MAC\\BIG MAC.csproj",
+              "RelativeDocumentMoniker": "BIG MAC\\BIG MAC.csproj",
+              "ToolTip": "C:\\Users\\DB\\Desktop\\REPOSITORIO-DO-deus-da-guerra\\DEUS DA GUERRA\\BIG MAC YHWACH\\BIG MAC\\BIG MAC.csproj",
+              "RelativeToolTip": "BIG MAC\\BIG MAC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-15T23:57:47.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DB\\Desktop\\REPOSITORIO-DO-deus-da-guerra\\DEUS DA GUERRA\\BIG MAC YHWACH\\BIG MAC\\Form1.cs",
+              "RelativeDocumentMoniker": "BIG MAC\\Form1.cs",
+              "ToolTip": "C:\\Users\\DB\\Desktop\\REPOSITORIO-DO-deus-da-guerra\\DEUS DA GUERRA\\BIG MAC YHWACH\\BIG MAC\\Form1.cs [Design]",
+              "RelativeToolTip": "BIG MAC\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T23:52:40.887Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\BIG MAC YHWACH\BIG MAC\bin\Debug\BIG MAC.exe.config
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\BIG MAC YHWACH\BIG MAC\bin\Debug\BIG MAC.exe
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\BIG MAC YHWACH\BIG MAC\bin\Debug\BIG MAC.pdb
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\BIG MAC YHWACH\BIG MAC\obj\Debug\BIG MAC.csproj.AssemblyReference.cache
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\BIG MAC YHWACH\BIG MAC\obj\Debug\BIG_MAC.Form1.resources
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\BIG MAC YHWACH\BIG MAC\obj\Debug\BIG_MAC.Properties.Resources.resources
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\BIG MAC YHWACH\BIG MAC\obj\Debug\BIG MAC.csproj.GenerateResource.cache
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\BIG MAC YHWACH\BIG MAC\obj\Debug\BIG MAC.csproj.CoreCompileInputs.cache
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\BIG MAC YHWACH\BIG MAC\obj\Debug\BIG MAC.exe
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\BIG MAC YHWACH\BIG MAC\obj\Debug\BIG MAC.pdb
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\BIG MAC YHWACH\BIG MAC\obj\Debug\BIG MAC.exe.config

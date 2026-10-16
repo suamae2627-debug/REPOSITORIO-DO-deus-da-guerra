@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DB\\Desktop\\video\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2CA518-DCB2-4F53-85CA-0AFC4DAC9F43}|video\\video.csproj|c:\\users\\db\\desktop\\video\\video\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F2CA518-DCB2-4F53-85CA-0AFC4DAC9F43}|video\\video.csproj|solutionrelative:video\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2CA518-DCB2-4F53-85CA-0AFC4DAC9F43}|video\\video.csproj|c:\\users\\db\\desktop\\video\\video\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2CA518-DCB2-4F53-85CA-0AFC4DAC9F43}|video\\video.csproj|solutionrelative:video\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DB\\Desktop\\video\\video\\Form1.cs",
+              "RelativeDocumentMoniker": "video\\Form1.cs",
+              "ToolTip": "C:\\Users\\DB\\Desktop\\video\\video\\Form1.cs",
+              "RelativeToolTip": "video\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T00:40:49.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DB\\Desktop\\video\\video\\Form1.cs",
+              "RelativeDocumentMoniker": "video\\Form1.cs",
+              "ToolTip": "C:\\Users\\DB\\Desktop\\video\\video\\Form1.cs [Design]",
+              "RelativeToolTip": "video\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T23:44:26.688Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

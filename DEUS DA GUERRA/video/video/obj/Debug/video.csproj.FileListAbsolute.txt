@@ -1,0 +1,16 @@
+C:\Users\DB\Desktop\video\video\bin\Debug\video.exe.config
+C:\Users\DB\Desktop\video\video\bin\Debug\video.exe
+C:\Users\DB\Desktop\video\video\bin\Debug\video.pdb
+C:\Users\DB\Desktop\video\video\bin\Debug\Interop.WMPLib.dll
+C:\Users\DB\Desktop\video\video\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DB\Desktop\video\video\obj\Debug\video.csproj.AssemblyReference.cache
+C:\Users\DB\Desktop\video\video\obj\Debug\Interop.WMPLib.dll
+C:\Users\DB\Desktop\video\video\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DB\Desktop\video\video\obj\Debug\video.csproj.ResolveComReference.cache
+C:\Users\DB\Desktop\video\video\obj\Debug\video.Form1.resources
+C:\Users\DB\Desktop\video\video\obj\Debug\video.Properties.Resources.resources
+C:\Users\DB\Desktop\video\video\obj\Debug\video.csproj.GenerateResource.cache
+C:\Users\DB\Desktop\video\video\obj\Debug\video.csproj.CoreCompileInputs.cache
+C:\Users\DB\Desktop\video\video\obj\Debug\video.exe
+C:\Users\DB\Desktop\video\video\obj\Debug\video.pdb
+C:\Users\DB\Desktop\video\video\obj\Debug\video.exe.config
