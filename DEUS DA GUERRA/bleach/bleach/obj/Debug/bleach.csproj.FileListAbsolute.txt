@@ -1,0 +1,15 @@
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\bleach\bleach\bin\Debug\bleach.exe.config
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\bleach\bleach\bin\Debug\bleach.exe
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\bleach\bleach\bin\Debug\bleach.pdb
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\bleach\bleach\obj\Debug\bleach.csproj.AssemblyReference.cache
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\bleach\bleach\obj\Debug\bleach.frm_humanos.resources
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\bleach\bleach\obj\Debug\bleach.frm_shinigamis.resources
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\bleach\bleach\obj\Debug\bleach.Properties.Resources.resources
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\bleach\bleach\obj\Debug\bleach.csproj.GenerateResource.cache
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\bleach\bleach\obj\Debug\bleach.csproj.CoreCompileInputs.cache
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\bleach\bleach\obj\Debug\bleach.exe
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\bleach\bleach\obj\Debug\bleach.pdb
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\bleach\bleach\obj\Debug\bleach.exe.config
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\bleach\bleach\obj\Debug\bleach.frm_bleach.resources
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\bleach\bleach\obj\Debug\bleach.frm_hollow.resources
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\bleach\bleach\obj\Debug\bleach.frm_quincys.resources

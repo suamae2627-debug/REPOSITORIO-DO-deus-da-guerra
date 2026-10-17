@@ -1,6 +1,6 @@
 ﻿namespace bleach
 {
-    partial class Form1
+    partial class frm_bleach
     {
         /// <summary>
         /// Variável de designer necessária.
@@ -48,17 +48,18 @@
             // btn_shinigami
             // 
             this.btn_shinigami.Font = new System.Drawing.Font("Baskerville Old Face", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_shinigami.Location = new System.Drawing.Point(560, 12);
+            this.btn_shinigami.Location = new System.Drawing.Point(554, 12);
             this.btn_shinigami.Name = "btn_shinigami";
             this.btn_shinigami.Size = new System.Drawing.Size(86, 82);
             this.btn_shinigami.TabIndex = 1;
             this.btn_shinigami.Text = "Shinigami";
             this.btn_shinigami.UseVisualStyleBackColor = true;
+            this.btn_shinigami.Click += new System.EventHandler(this.btn_shinigami_Click);
             // 
             // btn_hollow
             // 
             this.btn_hollow.Font = new System.Drawing.Font("Baskerville Old Face", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_hollow.Location = new System.Drawing.Point(12, 404);
+            this.btn_hollow.Location = new System.Drawing.Point(12, 511);
             this.btn_hollow.Name = "btn_hollow";
             this.btn_hollow.Size = new System.Drawing.Size(86, 82);
             this.btn_hollow.TabIndex = 2;
@@ -68,23 +69,26 @@
             // btn_quincy
             // 
             this.btn_quincy.Font = new System.Drawing.Font("Baskerville Old Face", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_quincy.Location = new System.Drawing.Point(560, 404);
+            this.btn_quincy.Location = new System.Drawing.Point(554, 511);
             this.btn_quincy.Name = "btn_quincy";
             this.btn_quincy.Size = new System.Drawing.Size(86, 82);
             this.btn_quincy.TabIndex = 3;
             this.btn_quincy.Text = "Quincy";
             this.btn_quincy.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // frm_bleach
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(661, 496);
+            this.BackgroundImage = global::bleach.Properties.Resources.ichigo__1_;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(652, 605);
             this.Controls.Add(this.btn_quincy);
             this.Controls.Add(this.btn_hollow);
             this.Controls.Add(this.btn_shinigami);
             this.Controls.Add(this.btn_humano);
-            this.Name = "Form1";
+            this.Name = "frm_bleach";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "BLEACH";
             this.ResumeLayout(false);
 
