@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frm_bleach));
             this.btn_humano = new System.Windows.Forms.Button();
             this.btn_shinigami = new System.Windows.Forms.Button();
             this.btn_hollow = new System.Windows.Forms.Button();
@@ -89,6 +90,7 @@
             this.Controls.Add(this.btn_hollow);
             this.Controls.Add(this.btn_shinigami);
             this.Controls.Add(this.btn_humano);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frm_bleach";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "BLEACH";

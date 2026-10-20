@@ -52,5 +52,10 @@ namespace bleach
             quincy.Show();// chamando a tela renomeada como "bleach"
             Hide();// fecha a tela anterior
         }
+
+           
+
     }
+
 }
+

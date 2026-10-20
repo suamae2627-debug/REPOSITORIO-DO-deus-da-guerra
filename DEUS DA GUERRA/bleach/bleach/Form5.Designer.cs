@@ -45,6 +45,7 @@
             this.btn_quem.TabIndex = 0;
             this.btn_quem.Text = "Quem são eles?";
             this.btn_quem.UseVisualStyleBackColor = false;
+            this.btn_quem.Click += new System.EventHandler(this.btn_quem_Click_1);
             // 
             // btn_voltar
             // 

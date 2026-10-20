@@ -66,9 +66,9 @@
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
-            //
+            // 
             // groupBox1
-            //
+            // 
             this.groupBox1.Controls.Add(this.radioButton4);
             this.groupBox1.Controls.Add(this.radioButton3);
             this.groupBox1.Controls.Add(this.radioButton2);
@@ -482,9 +482,9 @@
             this.lbl_bemvindo.TabIndex = 29;
             this.lbl_bemvindo.Text = "Seja Bem Vindo(a):";
             this.lbl_bemvindo.Click += new System.EventHandler(this.label16_Click);
-            //
+            // 
             // pictureBox1
-            //
+            // 
             this.pictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox1.Location = new System.Drawing.Point(191, 112);
             this.pictureBox1.Name = "pictureBox1";
@@ -492,14 +492,14 @@
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 30;
             this.pictureBox1.TabStop = false;
-            //
+            // 
             // Form1
-            //
+            // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 14F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.ClientSize = new System.Drawing.Size(716, 533);
+            this.ClientSize = new System.Drawing.Size(1534, 747);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.lbl_bemvindo);
             this.Controls.Add(this.lbl_VAl8);
