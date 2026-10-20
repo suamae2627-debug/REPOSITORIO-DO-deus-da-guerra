@@ -39,7 +39,7 @@
             this.btn_quem.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_quem.Font = new System.Drawing.Font("Baskerville Old Face", 24F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_quem.ForeColor = System.Drawing.Color.White;
-            this.btn_quem.Location = new System.Drawing.Point(951, 391);
+            this.btn_quem.Location = new System.Drawing.Point(950, 413);
             this.btn_quem.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.btn_quem.Name = "btn_quem";
             this.btn_quem.Size = new System.Drawing.Size(108, 116);

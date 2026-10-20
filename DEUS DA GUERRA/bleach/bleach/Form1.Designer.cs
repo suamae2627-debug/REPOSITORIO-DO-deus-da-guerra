@@ -65,6 +65,7 @@
             this.btn_hollow.TabIndex = 2;
             this.btn_hollow.Text = "Hollow";
             this.btn_hollow.UseVisualStyleBackColor = true;
+            this.btn_hollow.Click += new System.EventHandler(this.btn_hollow_Click);
             // 
             // btn_quincy
             // 
@@ -75,6 +76,7 @@
             this.btn_quincy.TabIndex = 3;
             this.btn_quincy.Text = "Quincy";
             this.btn_quincy.UseVisualStyleBackColor = true;
+            this.btn_quincy.Click += new System.EventHandler(this.btn_quincy_Click);
             // 
             // frm_bleach
             // 

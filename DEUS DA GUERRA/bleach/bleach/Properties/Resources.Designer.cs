@@ -63,9 +63,19 @@ namespace bleach.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap espadas {
+        internal static System.Drawing.Bitmap ESPADAS {
             get {
-                object obj = ResourceManager.GetObject("espadas", resourceCulture);
+                object obj = ResourceManager.GetObject("ESPADAS", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ESPADAS__1_ {
+            get {
+                object obj = ResourceManager.GetObject("ESPADAS (1)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -106,6 +116,16 @@ namespace bleach.Properties {
         internal static System.Drawing.Bitmap pinterest {
             get {
                 object obj = ResourceManager.GetObject("pinterest", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Quincy {
+            get {
+                object obj = ResourceManager.GetObject("Quincy", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -10,11 +10,22 @@ using System.Windows.Forms;
 
 namespace bleach
 {
-    public partial class frm_quincys : Form
+    public partial class frm_quincy : Form
     {
-        public frm_quincys()
+        public frm_quincy()
         {
             InitializeComponent();
+        }
+
+        private void btn_voltar_Click(object sender, EventArgs e)
+        {
+            frm_bleach bleach = new frm_bleach(); // instanciando (criando) um objeto
+            bleach.Show();// chamando a tela renomeada como "bleach"
+            Hide();// fecha a tela anterior 
+        }
+        private void frm_bleach_FormsClosed(object sender, EventArgs e)
+        {
+            Application.Exit();// serve para fechar a tela anterior
         }
     }
 }

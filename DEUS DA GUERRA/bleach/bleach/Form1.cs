@@ -38,5 +38,19 @@ namespace bleach
             shinigamis.Show();// chamando a tela renomeada como "shinigamis"
             Hide();// fecha a tela anterior 
         }
+
+        private void btn_hollow_Click(object sender, EventArgs e)
+        {
+            frm_hollow hollow = new frm_hollow(); // instanciando (criando) um objeto
+            hollow.Show();// chamando a tela renomeada como "hollow"
+            Hide();// fecha a tela anterior 
+        }
+
+        private void btn_quincy_Click(object sender, EventArgs e)
+        {
+            frm_quincy quincy = new frm_quincy(); // instanciando (criando) um objeto
+            quincy.Show();// chamando a tela renomeada como "bleach"
+            Hide();// fecha a tela anterior
+        }
     }
 }

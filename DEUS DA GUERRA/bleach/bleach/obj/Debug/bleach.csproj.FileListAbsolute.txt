@@ -12,4 +12,4 @@ C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\bleach\bleach\o
 C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\bleach\bleach\obj\Debug\bleach.exe.config
 C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\bleach\bleach\obj\Debug\bleach.frm_bleach.resources
 C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\bleach\bleach\obj\Debug\bleach.frm_hollow.resources
-C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\bleach\bleach\obj\Debug\bleach.frm_quincys.resources
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\bleach\bleach\obj\Debug\bleach.frm_quincy.resources
