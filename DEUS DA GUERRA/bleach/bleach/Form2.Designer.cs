@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frm_humanos));
             this.btn_voltar = new System.Windows.Forms.Button();
             this.btn_quem = new System.Windows.Forms.Button();
             this.directorySearcher1 = new System.DirectoryServices.DirectorySearcher();
@@ -77,9 +78,11 @@
             this.ClientSize = new System.Drawing.Size(860, 742);
             this.Controls.Add(this.btn_quem);
             this.Controls.Add(this.btn_voltar);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frm_humanos";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "HUMANOS";
+            this.Load += new System.EventHandler(this.frm_humanos_Load);
             this.ResumeLayout(false);
 
         }

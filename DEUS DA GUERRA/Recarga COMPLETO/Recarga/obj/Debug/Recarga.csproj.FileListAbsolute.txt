@@ -8,3 +8,4 @@ C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\Recarga COMPLET
 C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\Recarga COMPLETO\Recarga\obj\Debug\Recarga.csproj.CoreCompileInputs.cache
 C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\Recarga COMPLETO\Recarga\obj\Debug\Recarga.exe
 C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\Recarga COMPLETO\Recarga\obj\Debug\Recarga.pdb
+C:\Users\DB\Desktop\REPOSITORIO-DO-deus-da-guerra\DEUS DA GUERRA\Recarga COMPLETO\Recarga\obj\Debug\Recarga.exe.config

@@ -33,5 +33,10 @@ namespace bleach
         {
             Application.Exit();// serve para fechar a tela anterior
         }
+
+        private void frm_humanos_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

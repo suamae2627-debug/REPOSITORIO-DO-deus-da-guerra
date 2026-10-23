@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frm_quincy));
             this.btn_quem = new System.Windows.Forms.Button();
             this.btn_voltar = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -71,6 +72,7 @@
             this.ClientSize = new System.Drawing.Size(952, 696);
             this.Controls.Add(this.btn_voltar);
             this.Controls.Add(this.btn_quem);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frm_quincy";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "QUINCYS";

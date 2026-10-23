@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frm_shinigamis));
             this.btn_quem = new System.Windows.Forms.Button();
             this.btn_voltar = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -75,6 +76,7 @@
             this.Controls.Add(this.btn_voltar);
             this.Controls.Add(this.btn_quem);
             this.Font = new System.Drawing.Font("Baskerville Old Face", 9.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.MaximumSize = new System.Drawing.Size(1076, 705);
             this.MinimumSize = new System.Drawing.Size(1076, 705);

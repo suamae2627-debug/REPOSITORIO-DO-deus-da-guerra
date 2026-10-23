@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frm_hollow));
             this.btn_voltar = new System.Windows.Forms.Button();
             this.btn_quem = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -69,6 +70,7 @@
             this.ClientSize = new System.Drawing.Size(952, 696);
             this.Controls.Add(this.btn_quem);
             this.Controls.Add(this.btn_voltar);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximumSize = new System.Drawing.Size(1076, 735);
             this.MinimumSize = new System.Drawing.Size(968, 735);
             this.Name = "frm_hollow";
